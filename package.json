@@ -1,6 +1,6 @@
 {
-  "name": "download-node",
-  "version": "1.0.1",
+  "name": "download-node-recommended",
+  "version": "1.0.2",
   "description": "Download recommended Node.js version and extract binaries needed for runtime",
   "main": "download-node.js",
   "repository": "https://github.com/khmseu/download-node.git",
