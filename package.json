@@ -4,11 +4,12 @@
   "description": "Download recommended Node.js version and extract binaries needed for runtime",
   "author": "Kai Henningsen <kai.extern@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/khmseu/download-node",
   "repository": "https://github.com/khmseu/download-node.git",
+  "bugs": "https://github.com/khmseu/download-node/issues",
   "version": "1.0.3",
-  "main": "download-node.js",
   "bin": {
-    "download-node": "download-node.js"
+    "download-node": "./download-node.js"
   },
   "dependencies": {
     "decompress": "^4.2.0",
@@ -26,5 +27,15 @@
   },
   "devDependencies": {
     "babel-preset-node8": "^1.2.0"
+  },
+  "keywords": [
+    "download",
+    "node",
+    "recommended",
+    "runtime"
+  ],
+  "engines": {
+    "node": ">=8"
   }
 }
+
