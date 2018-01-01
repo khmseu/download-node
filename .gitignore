@@ -58,8 +58,12 @@ typings/
 .env
 
 # also ...
-Session.vim
-mist*
 *~
+.babelrc
+.esformatter
+.eslintrc.json
+Session.vim
 dist
+mist*
 work
+

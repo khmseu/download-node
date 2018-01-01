@@ -20,5 +20,8 @@
     "get-hrefs": "^2.0.0",
     "path": "^0.12.7",
     "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "babel-preset-node8": "^1.2.0"
   }
 }
