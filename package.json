@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Download recommended Node.js version and extract binaries needed for runtime",
   "main": "download-node.js",
-  "repository": "?",
+  "repository": "https://github.com/khmseu/download-node.git",
   "author": "Kai Henningsen <kai.extern@gmail.com>",
   "license": "MIT",
   "private": false,
