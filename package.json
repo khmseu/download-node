@@ -7,7 +7,7 @@
   "homepage": "https://github.com/khmseu/download-node",
   "repository": "https://github.com/khmseu/download-node.git",
   "bugs": "https://github.com/khmseu/download-node/issues",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "bin": {
     "download-node": "./download-node.js"
   },
@@ -38,4 +38,3 @@
     "node": ">=8"
   }
 }
-
